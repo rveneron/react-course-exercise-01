@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import Exercise02 from "../exercise-02/Exercise02";
 import Char from './Char/Char'
 import Validator from './Validator/Validator'
-import Exercise01 from "../exercise-01/Exercise01";
 
 
 class Solution02 extends Component {

@@ -2,6 +2,8 @@ import React, {Component} from 'react';
 import './App.css';
 import Solution01 from "./components/exercise-01/Solution01";
 import Solution02 from "./components/exercise-02/Solution02";
+import {StyledLi} from "./components/global/global"
+
 
 class App extends Component {
 
@@ -25,8 +27,8 @@ class App extends Component {
                 <h1>Ejercicios de React</h1>
                 <hr/>
                 <ol>
-                    <li className="Exercise" onClick={()=>this.showExerciseHandler(1)}>01</li>
-                    <li className="Exercise" onClick={()=>this.showExerciseHandler(2)}>02</li>
+                    <StyledLi onClick={() => this.showExerciseHandler(1)}>01</StyledLi>
+                    <StyledLi onClick={() => this.showExerciseHandler(2)}>02</StyledLi>
                 </ol>
                 {this.state.selectedExercise}
             </div>

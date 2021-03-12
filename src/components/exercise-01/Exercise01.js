@@ -1,9 +1,10 @@
 import React from 'react';
+import {StyledExerciseDiv} from "../global/global";
 
 const Exercise01 = () => {
     return (
-        <div className="Problem">
-            <h2>Ejercicio 01</h2>
+        <StyledExerciseDiv>
+            <h2 className="Margin">Ejercicio 01</h2>
             <ol>
                 <li>Create TWO new components: UserInput and UserOutput</li>
                 <li>UserInput should hold an input element, UserOutput two paragraphs</li>
@@ -16,7 +17,7 @@ const Exercise01 = () => {
                 <li>Add two-way-binding to your input (in UserInput) to also display the starting username</li>
                 <li>Add styling of your choice to your components/ elements in the components - both with inline styles and stylesheets</li>
             </ol>
-        </div>
+        </StyledExerciseDiv>
     );
 }
 
