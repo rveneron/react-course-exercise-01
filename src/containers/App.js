@@ -1,8 +1,8 @@
 import React, {Component} from 'react';
 import './App.css';
-import Solution01 from "./components/exercise-01/Solution01";
-import Solution02 from "./components/exercise-02/Solution02";
-import {StyledLi} from "./components/global/global"
+import Solution01 from "../components/exercise-01/Solution01";
+import Solution02 from "../components/exercise-02/Solution02";
+import {StyledLi} from "../components/global/global"
 
 
 class App extends Component {

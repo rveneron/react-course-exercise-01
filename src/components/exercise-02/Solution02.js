@@ -3,7 +3,6 @@ import Exercise02 from "../exercise-02/Exercise02";
 import Char from './Char/Char'
 import Validator from './Validator/Validator'
 
-
 class Solution02 extends Component {
     state = {
         text: ''

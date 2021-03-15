@@ -31,10 +31,21 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="U:\React\Training\React Course\exercises\src\containers" />
       <recent name="U:\React\Training\React Course\exercises\src\components\exercise-01" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.start">
+    <configuration name="eject" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="eject" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -48,6 +59,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="npm.start" />
+        <item itemvalue="npm.eject" />
       </list>
     </recent_temporary>
   </component>
@@ -59,7 +71,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1615563522829</updated>
-      <workItem from="1615563526814" duration="10574000" />
+      <workItem from="1615563526814" duration="11780000" />
+      <workItem from="1615583239408" duration="1924000" />
+      <workItem from="1615610381816" duration="2376000" />
+      <workItem from="1615692562177" duration="1206000" />
+      <workItem from="1615696745626" duration="1316000" />
+      <workItem from="1615737685003" duration="632000" />
     </task>
     <servers />
   </component>
